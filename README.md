@@ -2,5 +2,6 @@
 Hummmm, something...
 
 
-To use it, first of all, run InstallNConfigure.bat.
-\nAfter, to launch the app, run start.vbs
+To use it,
+* First of all, run InstallNConfigure.bat.
+* After, to launch the app, run start.vbs.
