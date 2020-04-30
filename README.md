@@ -1,7 +1,7 @@
 # TeribleApp
-## Hummmm, something...
+### Hummmm, something...
 
-###### Windows only.
+#### Windows only.
 
 To use it,
 * First of all, Unzip src.zip.
