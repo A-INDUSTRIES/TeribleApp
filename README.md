@@ -1,4 +1,4 @@
-# TeribleApp
+# TerribleApp
 ### Hummmm, something...
 
 #### Windows only.
